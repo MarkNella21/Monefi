@@ -23,7 +23,6 @@ const HelpCenter = () => {
       <div className="py-lg-15 py-10">
         <Container>
           <Row className="align-items-center justify-content-center">
-            {/* <img src={?.logo} className="col-5 mx-auto p-2 img-thumbnail img-fluid rounded-circle" alt="404 not found" /> */}
             <Col md={6} xs={12}>
               <h1 className="fw-bold mb-1 display-3">How can we help you?</h1>
               <p className="mb-5 text-dark ">
